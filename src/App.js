@@ -3,8 +3,6 @@ import HeaderComponent from './HeaderComponent';
 import MainComponent from './MainComponent';
 import FooterComponent from './FooterComponent';
 
-import Licences from './Licences';
-
 function App() {
 	return (
 		<div className="App">

@@ -1,0 +1,191 @@
+{
+	"licences": [
+		{
+			"name": "Apache_2_0",
+			"title": "Apache 2.0",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "BSD_2",
+			"title": "BSD 2 Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "BSD_3",
+			"title": "BSD 3 Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "BSD_4",
+			"title": "BSD 4 Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "Eclipse",
+			"title": "Eclipse Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "GPL_2_0",
+			"title": "GPL 2.0 Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "GPL_3_0",
+			"title": "GPL 3.0 Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "LGPL_2_1",
+			"title": "LGPL 2.1 Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "MIT",
+			"title": "MIT Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "MSPL",
+			"title": "MSPL Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		},
+		{
+			"name": "Zlib",
+			"title": "Zlib Licence",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
+			"params": {
+				"name": true,
+				"year": true
+			},
+			"used_by_orgs": [
+				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
+				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}
+			],
+			"used_by_repos": [
+				{"name": "reactry/todo", "url": "https://reactry.github.io/todo"},
+				{"name": "reactry/newtab", "url": "https://reactry.github.io/newtab"}
+			]
+		}
+	]
+}
