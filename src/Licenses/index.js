@@ -14,7 +14,7 @@ import GPL_3_0 from './GPL_3_0';
 import LGPL_2_1 from './LGPL_2_1';
 
 
-export default {
+const Licenses = {
 	Apache_2_0: Apache_2_0,
 	Eclipse: Eclipse,
 	MIT: MIT,
@@ -29,3 +29,5 @@ export default {
 	GPL_3_0: GPL_3_0,
 	LGPL_2_1: LGPL_2_1,
 };
+
+export default Licenses;
