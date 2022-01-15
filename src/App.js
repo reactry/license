@@ -1,4 +1,5 @@
 import './App.css';
+import Licences from './Licences';
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
         <p className="text-2xl py-12">
           Hallo Welt.
         </p>
+        <Licences.MIT />
       </header>
     </div>
   );
