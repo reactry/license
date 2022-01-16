@@ -22,20 +22,28 @@ export default function MainComponent () {
 	let currentLicense = licenses[currentIndex];
 
 	return (
-		<main className="bg-slate-200 py-12 space-y-12">
-			<div className="max-w-lg m-auto bg-white min-h-screen p-8">
+		<main className="bg-slate-200 md:py-12 md:space-y-12">
+			<div className="md:max-w-5xl m-auto bg-white min-h-screen p-8">
 				<h3 className="p-3 text-center text-xl">Choose your License</h3>
 				<FormSelect licenses={licenses} setCurrectIndex={setCurrectIndex} />
-				<LicenseDetails currentLicense={currentLicense} />
 				<FormDetails currentLicense={currentLicense}
 					personName={personName} setPersonName={setPersonName}
 					startYear={startYear} setStartYear={setStartYear}
 					endYear={endYear} setEndYear={setEndYear}
 				/>
-				<LicenseProperties currentLicense={currentLicense} />
+				<div className="md:flex">
+					<div className="basis-0 grow px-4 py-4">
+						<LicenseDetails currentLicense={currentLicense} />
+					</div>
+					<div className="basis-0 grow px-4 py-4">
+						<LicenseProperties currentLicense={currentLicense} />
+					</div>
+				</div>
 			</div>
-			<div className="max-w-lg m-auto bg-white min-h-screen p-8">
-				<License currentLicense={currentLicense} />
+			<div className="md:max-w-5xl m-auto bg-white min-h-screen p-8">
+				<License currentLicense={currentLicense}
+					personName={personName} startYear={startYear} endYear={endYear}
+				/>
 			</div>
 		</main>
 	);

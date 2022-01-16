@@ -29,13 +29,11 @@ export default function LicenseProperties ({currentLicense}) {
 	});
 
 	return (
-		<div className="flex space-x-4">
-			<div className="space-y-4">
-				<h3>Yes</h3>
+		<div className="md:flex md:space-x-4 space-y-6 md:space-y-0">
+			<div className="space-y-4 basis-0 grow">
 				{yesItems}
 			</div>
-			<div className="space-y-4">
-				<h3>No</h3>
+			<div className="space-y-4 basis-0 grow">
 				{noItems}
 			</div>
 		</div>
