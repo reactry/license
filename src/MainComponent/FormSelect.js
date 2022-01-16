@@ -1,8 +1,10 @@
 
 export default function FormSelect ({licenses, setCurrectIndex}) {
-	let licenses_option_items = licenses.map((license, index) =>
-		<option key={index} value={index}>{license.title}</option>
-	);
+	let licenses_option_items = licenses.map((license, index) => {
+		if (license.show) {
+			return <option key={index} value={index}>{license.title}</option>;
+		}
+	});
 
 	function handleSelectChange (e) {
 		setCurrectIndex(e.target.value);

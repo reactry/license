@@ -1,6 +1,7 @@
 {
 	"licenses": [
 		{
+			"show": true,
 			"name": "Apache_2_0",
 			"title": "Apache 2.0",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
@@ -19,6 +20,7 @@
 			]
 		},
 		{
+			"show": true,
 			"name": "BSD_2",
 			"title": "BSD 2 Licence",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
@@ -37,6 +39,7 @@
 			]
 		},
 		{
+			"show": true,
 			"name": "BSD_3",
 			"title": "BSD 3 Licence",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
@@ -55,6 +58,7 @@
 			]
 		},
 		{
+			"show": true,
 			"name": "BSD_4",
 			"title": "BSD 4 Licence",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
@@ -91,6 +95,7 @@
 			]
 		},
 		{
+			"show": true,
 			"name": "GPL_2_0",
 			"title": "GPL 2.0 Licence",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
@@ -109,6 +114,7 @@
 			]
 		},
 		{
+			"show": true,
 			"name": "GPL_3_0",
 			"title": "GPL 3.0 Licence",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
@@ -127,6 +133,7 @@
 			]
 		},
 		{
+			"show": true,
 			"name": "LGPL_2_1",
 			"title": "LGPL 2.1 Licence",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
@@ -145,6 +152,7 @@
 			]
 		},
 		{
+			"show": true,
 			"name": "MIT",
 			"title": "MIT Licence",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
@@ -187,6 +195,7 @@
 			]
 		},
 		{
+			"show": true,
 			"name": "Zlib",
 			"title": "Zlib Licence",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
