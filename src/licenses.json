@@ -6,7 +6,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -23,7 +24,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -40,7 +42,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -57,7 +60,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -74,7 +78,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -91,7 +96,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -108,7 +114,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -125,7 +132,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -142,7 +150,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -159,7 +168,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
@@ -176,7 +186,8 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae massa vestibulum, porta diam at, feugiat massa. Vestibulum nibh ligula, lobortis sit amet arcu non, vulputate tempor massa. Aliquam id ornare orci. Donec scelerisque est est. Fusce non dui maximus est euismod viverra nec eu velit.",
 			"params": {
 				"name": true,
-				"year": true
+				"start_year": true,
+				"end_year": true
 			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
