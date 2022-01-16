@@ -12,7 +12,8 @@ export default function FormSelect ({licenses, setCurrectIndex}) {
 
 	return (
 		<form className="py-8">
-			<select name="license_name" onChange={handleSelectChange}
+			<label className="block py-3" for="license_name">Choose your License</label>
+			<select name="license_name" id="license_name" onChange={handleSelectChange}
 				className="block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500">
 				{licenses_option_items}
 			</select>

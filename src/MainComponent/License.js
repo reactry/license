@@ -3,7 +3,7 @@ export default function License ({
 	currentLicense, personName, startYear, endYear
 }) {
 	return (
-		<div className="px-4 py-8">
+		<div className="py-8">
 			<h3 className="text-xl leading-10">
 				{currentLicense.title} was issued to {personName} for {startYear}-{endYear}
 			</h3>
