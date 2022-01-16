@@ -153,6 +153,12 @@
 				"start_year": true,
 				"end_year": true
 			},
+			"properties": {
+				"commercial_use": true,
+				"private_use": true,
+				"modification": true,
+				"distribution": true
+			},
 			"used_by_orgs": [
 				{"name": "Lorem", "url": "https://reactry.github.io/todo"},
 				{"name": "Ipsum", "url": "https://reactry.github.io/newtab"}

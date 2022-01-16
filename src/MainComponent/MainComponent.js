@@ -5,6 +5,7 @@ import Licenses from '../Licenses';
 import FormSelect from './FormSelect';
 import LicenseDetails from './LicenseDetails';
 import FormDetails from './FormDetails';
+import LicenseProperties from './LicenseProperties';
 import License from './License';
 
 import licenses_json from '../licenses.json';
@@ -31,6 +32,7 @@ export default function MainComponent () {
 					startYear={startYear} setStartYear={setStartYear}
 					endYear={endYear} setEndYear={setEndYear}
 				/>
+				<LicenseProperties currentLicense={currentLicense} />
 			</div>
 			<div className="max-w-lg m-auto bg-white min-h-screen p-8">
 				<License currentLicense={currentLicense} />
